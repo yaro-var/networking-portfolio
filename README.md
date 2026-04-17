@@ -23,9 +23,9 @@ My previous work in photography and 3D printing helped me develop attention to d
 
 ## Projects
 
-### OSPF Troubleshooting Lab
-Scenario-based troubleshooting lab focused on OSPF neighbor formation, timer mismatches, interface settings, and route validation.
-**Status:** In Progress
+### OSPF Golden Configuration and Troubleshooting Lab
+Three-router single-area OSPF lab documenting a verified golden baseline, neighbor formation, route learning, LSDB validation, and end-to-end reachability.  
+Status: Private draft
 
 ### VLAN / STP Troubleshooting Lab
 Lab focused on VLAN assignment, trunking, STP behavior, and switchport troubleshooting.
