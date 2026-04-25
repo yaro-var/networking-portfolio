@@ -17,7 +17,7 @@ My previous work in photography and 3D printing helped me develop attention to d
 - VLANs, trunking, STP, and EtherChannel
 - DHCP, DHCP Snooping, and Dynamic ARP Inspection (DAI)
 - Network documentation
-- Packet Tracer lab validation
+- Packet Tracer-based lab validation
 - Foundational network automation
 
 ## Projects
