@@ -25,6 +25,8 @@ My previous work in photography and 3D printing helped me develop attention to d
 ### OSPF Golden Configuration and Troubleshooting Lab
 Three-router single-area OSPF lab documenting a verified golden baseline, neighbor formation, route learning, LSDB validation, and a documented troubleshooting scenario.
 
+**Repository:** [ospf-troubleshooting-lab](https://github.com/yaro-var/ospf-troubleshooting-lab)
+
 ### VLAN / STP Troubleshooting Lab
 Lab focused on VLAN assignment, trunking, STP behavior, and switchport troubleshooting.  
 Status: In progress
