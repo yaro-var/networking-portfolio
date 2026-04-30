@@ -14,26 +14,32 @@ My previous work in photography and 3D printing helped me develop attention to d
 
 - Cisco IOS configuration and troubleshooting
 - OSPF fundamentals and troubleshooting
-- VLANs, trunking, STP, and EtherChannel
-- DHCP, DHCP Snooping, and Dynamic ARP Inspection (DAI)
+- VLANs and trunking
+- Router-on-a-stick inter-VLAN routing
+- DHCP troubleshooting
 - Network documentation
-- Packet Tracer-based lab validation
+- Cisco Modeling Labs and Packet Tracer lab validation
 - Foundational network automation
 
 ## Projects
 
 ### OSPF Golden Configuration and Troubleshooting Lab
+
 Three-router single-area OSPF lab documenting a verified golden baseline, neighbor formation, route learning, LSDB validation, and a documented troubleshooting scenario.
 
 **Repository:** [ospf-troubleshooting-lab](https://github.com/yaro-var/ospf-troubleshooting-lab)
 
-### VLAN / STP Troubleshooting Lab
-Lab focused on VLAN assignment, trunking, STP behavior, and switchport troubleshooting.  
-Status: In progress
+### VLAN DHCP Troubleshooting Lab
+
+Cisco CML switching lab documenting VLANs, trunking, router-on-a-stick DHCP, and a completed troubleshooting scenario where PC1 fails to obtain a DHCP lease because VLAN 10 is missing from SW2.
+
+**Repository:** [vlan-troubleshooting-lab](https://github.com/yaro-var/vlan-troubleshooting-lab)
 
 ### Small Office Network Design
-Small branch office network design including segmentation, IP addressing, and supporting documentation.  
-Status: In progress
+
+Small branch office network design including segmentation, IP addressing, and supporting documentation.
+
+**Status:** In progress
 
 ## What I'm Building Next
 
@@ -43,4 +49,5 @@ Status: In progress
 
 ## Contact
 
+url: https://network.yarovargas.com/
 Email: yaro@yarovargas.com
