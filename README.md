@@ -31,7 +31,7 @@ Three-router single-area OSPF lab documenting a verified golden baseline, neighb
 
 ### VLAN DHCP Troubleshooting Lab
 
-Cisco CML switching lab documenting VLANs, trunking, router-on-a-stick DHCP, and a completed troubleshooting scenario where PC1 fails to obtain a DHCP lease because VLAN 10 is missing from SW2.
+Cisco CML switching lab documenting VLANs, trunking, router-on-a-stick, DHCP, and a completed troubleshooting scenario where PC1 fails to obtain a DHCP lease because VLAN 10 is missing from SW2.
 
 **Repository:** [vlan-troubleshooting-lab](https://github.com/yaro-var/vlan-troubleshooting-lab)
 
